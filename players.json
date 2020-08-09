@@ -1,0 +1,64 @@
+{
+"id": 1,
+"name": "yousef",
+"numTel": null,
+"mail": null,
+"status": "",
+"poste": "defense"
+},
+{
+"id": 2,
+"name": "alae",
+"numTel": null,
+"mail": null,
+"status": "disponible",
+"poste": "elier"
+},
+{
+"id": 3,
+"name": "yassine",
+"numTel": null,
+"mail": null,
+"status": "disponible",
+"poste": "milieu"
+},
+{
+"id": 4,
+"name": "reda",
+"numTel": null,
+"mail": null,
+"status": "disponible",
+"poste": "defense"
+},
+{
+"id": 5,
+"name": "imad",
+"numTel": null,
+"mail": null,
+"status": "disponible",
+"poste": "elier"
+},
+{
+"id": 6,
+"name": "omar",
+"numTel": null,
+"mail": null,
+"status": "disponible",
+"poste": "gardien"
+},
+{
+"id": 7,
+"name": "houssam",
+"numTel": null,
+"mail": null,
+"status": "disponible",
+"poste": "attaque"
+},
+{
+"id": 8,
+"name": "kirami",
+"numTel": null,
+"mail": null,
+"status": "indisponible",
+"poste": "invité"
+}
